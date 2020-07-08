@@ -1,27 +1,14 @@
-# <h1 style =" text-align:center;"> dfsdafdsda</h1>
+# <h1 style =" text-align:center;"> weather map</h1>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h style =" text-align:center;">dfsdafdsda</h>
+   <h style =" text-align:center;">weather map</h>
 
   <p style =" text-align:center;">
-    dsfasfdsa
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
-  </p>
+    show to daily and five day forecast of the earths weather
+   </p>
 </p>
 
 
@@ -35,7 +22,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -46,19 +32,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](demo.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -89,17 +67,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
+show to daily and five day forecast of the earths weather
 
 
 <!-- CONTRIBUTING -->
@@ -109,7 +77,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 name of contributer 
-dfsdfdfa
+just me
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -120,7 +88,7 @@ dfsdfdfa
 
 <!-- LICENSE -->
 ## License
-MIT
+APACHE 2.0
 Distributed under the MIT License. See `LICENSE` for more information.
 
   
