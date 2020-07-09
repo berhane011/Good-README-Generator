@@ -1,7 +1,11 @@
 const fs = require("fs");
 const axios = require("axios");
 const inquirer = require("inquirer");
+<<<<<<< HEAD
 const generateMarkdown = require("./utils/generateMarkdown")
+=======
+const generateMarkdown =require("./utils/generateMarkdown")
+>>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 
 // writeToFile("README2.md", generateMarkdown({title: "Code Quiz", description: "This is a quiz."}));
 // array of questions for user
@@ -57,6 +61,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
+<<<<<<< HEAD
   inquirer
     .prompt(questions)
     .then(function (data) {
@@ -66,6 +71,13 @@ function init() {
 
       console.log('data', data)
     });
+=======
+  inquirer.prompt(questions).then(function (data) {
+    console.log("data", data);
+
+    writeToFile("README.md", generateMarkdown(data));
+  });
+>>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 }
 
 // function call to initialize program

@@ -5,12 +5,22 @@ function generateMarkdown(data) {
 
 <!-- PROJECT LOGO -->
 <br />
+<<<<<<< HEAD
 
    <h1 style =" text-align:center;">${data.title}</h1>
 
     <p style =" text-align:center;">
     ${data.description}
    </p>
+=======
+<p align="center">
+   <h style =" text-align:center;">${data.title}</h>
+
+  <p style =" text-align:center;">
+    ${data.description}
+   </p>
+</p>
+>>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 
 
 
