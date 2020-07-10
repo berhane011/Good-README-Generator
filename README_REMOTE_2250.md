@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-# <h1 style =" text-align:center;"> daily weather map</h1>
-=======
 # <h1 style =" text-align:center;"> weather map</h1>
->>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 
 
 <!-- PROJECT LOGO -->
 <br />
-<<<<<<< HEAD
-
-   <h1 style =" text-align:center;">daily weather map</h1>
-
-    <p style =" text-align:center;">
-    world daily weather temp and humidiy of each city along with five day forcast
-   </p>
-=======
 <p align="center">
    <h style =" text-align:center;">weather map</h>
 
@@ -22,7 +10,6 @@
     show to daily and five day forecast of the earths weather
    </p>
 </p>
->>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 
 
 
@@ -80,11 +67,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<<<<<<< HEAD
-to predicate temp and hubidity and show daily temp and humidity
-=======
 show to daily and five day forecast of the earths weather
->>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 
 
 <!-- CONTRIBUTING -->
@@ -94,11 +77,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 name of contributer 
-<<<<<<< HEAD
-berhane teklemariam
-=======
 just me
->>>>>>> 5d6802aefdf5909d1f3803d6cde869a2fa8ffdb0
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
